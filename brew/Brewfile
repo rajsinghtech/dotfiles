@@ -118,6 +118,7 @@ brew "mosh", args: ["HEAD"]
 brew "ncdu"
 brew "neovim"
 brew "nmap"
+brew "node"
 brew "ollama", restart_service: true
 brew "p7zip"
 brew "pandoc"
