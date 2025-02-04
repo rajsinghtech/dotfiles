@@ -5,3 +5,4 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 eval "$(fzf --zsh)"
 alias vim=\"nvim\
+alias k='kubectl';
